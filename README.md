@@ -113,4 +113,4 @@ Interactive dashboard development using Streamlit
 
 Prince
 Aspiring Data Analyst
-## 🔗 Live Dashboard-  
+## 🔗 Live Dashboard-  https://github.com/princesi22/whatsapp-chat-analysis/blob/master/whatsapp%20chat%20analysis.gif
